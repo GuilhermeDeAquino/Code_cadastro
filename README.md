@@ -1,6 +1,6 @@
 # Code_cadastro
 
-🗄️ Sistema de Cadastro de Usuários com Oracle + Python
+## 🗄️ Sistema de Cadastro de Usuários com Oracle + Python
 
 Aplicação em Python para cadastro, consulta e exportação de usuários, utilizando banco de dados Oracle e interface em terminal (CLI).
 
@@ -18,7 +18,7 @@ Estrutura modular em Python
 
 ---
 
-📌 Funcionalidades
+## 📌 Funcionalidades
 
 Cadastro de usuários
 
@@ -35,7 +35,7 @@ Estrutura separada em módulos (main + database)
 
 ---------------------------------------------------
 
-🎯 Objetivo do projeto
+## 🎯 Objetivo do projeto
 
 Este projeto foi desenvolvido com foco em prática de integração com banco Oracle usando Python, reforçando conceitos como:
 
