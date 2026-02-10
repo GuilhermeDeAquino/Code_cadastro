@@ -1,0 +1,13 @@
+ID | Nome | Idade | Sexo | Altura | Peso
+--------------------------------------------------
+1 | Andressa | 42 | Feminino | 1.7 | 80.0
+21 | Guilherme | 24 | Masculino | 1.7 | 65.0
+22 | Clara | 20 | Feminino | 1.6 | 55.0
+23 | Pedro  | 20 | Masculino | 1.9 | 80.0
+41 | Neymar | 30 | Masculino | 1.8 | 70.0
+42 | Yuri Alberto | 24 | Masculino | 1.8 | 75.0
+43 | Mateus | 26 | Masculino | 1.69 | 73.0
+44 | Vivian | 39 | Feminino | 1.7 | 65.0
+45 | Gustavo  | 23 | Feminino | 1.7 | 90.0
+46 | Joana | 55 | Feminino | 1.9 | 70.0
+
