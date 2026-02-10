@@ -16,7 +16,7 @@ Manipulação de arquivos
 
 Estrutura modular em Python
 
--------------------------------------------------------
+---
 
 📌 Funcionalidades
 
